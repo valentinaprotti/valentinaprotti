@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Valentina and I'm a Data Science master graduate from University of Bologna, Italy.
+
+I'm currently working on AI applications on IDP (Intelligent Document Processing), with an eye open on new market trends.
+
+I'm open for challenges and always looking for occasions to learn something new!
 
 <!--
 **valentinaprotti/valentinaprotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
